@@ -53,7 +53,7 @@ public abstract class Base extends JFrame
 		
                 //create menubar
 		JMenuBar menuBar = new JMenuBar();
-                //menubar heading
+                //menubar - heading 
 		JMenu mFile = new JMenu("Menu");
                 //menubar "Open" function
 		JMenuItem mIFOpen = new JMenuItem("Open");
